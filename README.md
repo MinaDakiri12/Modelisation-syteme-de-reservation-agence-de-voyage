@@ -1,6 +1,9 @@
 # UML Brief
+
 #Brief 1
-Contexte du projet
+
+Contexte du projet :
+
 Une agence de voyages utilise son système d'organisation des voyages. Le système permet de réserver:
 
 Une chambre d'hôtel où le client va être hébergé.
